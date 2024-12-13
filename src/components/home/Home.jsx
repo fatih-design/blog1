@@ -1,13 +1,13 @@
 import './Home.css';
- 
+
 function Home(props) {
 
-return (
-<>
-    Home
-</>
-);
+    return (
+        <>
+            Home
+        </>
+    );
 
 }
- 
+
 export default Home;

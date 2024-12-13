@@ -1,13 +1,13 @@
 import './Overzicht.css';
- 
+
 function Overzicht(props) {
 
-return (
-<>
-    Overzicht
-</>
-);
+    return (
+        <>
+            Overzicht
+        </>
+    );
 
 }
- 
+
 export default Overzicht;

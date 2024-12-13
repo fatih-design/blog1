@@ -1,17 +1,14 @@
-import './Nieuwe post.css';
+import './NieuwePost.css';
 
-function Nieuwe
-
-post(props)
-{
+function NieuwePost(props) {
 
     return (
         <>
-            Nieuwe post
+            <h1>Nieuwe post</h1>h1>
         </>
     );
 
 }
 
-export default Nieuwe
-post;
+export default NieuwePost;
+
