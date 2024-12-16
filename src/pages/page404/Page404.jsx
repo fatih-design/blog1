@@ -6,7 +6,7 @@ function Page404(props) {
     return (
         <>
             <h1> De pagina die u zoekt bestaat helaas niet</h1>
-            Breng me terug naar <Link to='/home'>Home</Link>
+            {/*Breng me terug naar <Link to='/home'>Home</Link>*/}
         </>
     );
 

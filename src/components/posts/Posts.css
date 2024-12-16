@@ -1,0 +1,5 @@
+.post-details {
+  width: calc(100vw - 40px);
+    padding:40px;
+    background-color: purple;
+}
