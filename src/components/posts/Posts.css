@@ -1,5 +1,22 @@
 .post-details {
-  width: calc(100vw - 40px);
+  width: calc(100vw - 30px);
     padding:40px;
-    background-color: purple;
+    background-color: whitesmoke;
+}
+.post-details__title {
+  color: brown;
+  font-size: 2rem;
+
+}
+.post-details__subtitle {
+color: darkgrey;
+  font-size: 1.5rem;
+}
+.post-details__author-created {
+color: green;
+  font-size: 8rem
+}
+.post-details__content {
+color: darkblue;
+  font-size: 1.3rem;
 }

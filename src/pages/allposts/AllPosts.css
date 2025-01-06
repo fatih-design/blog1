@@ -1,0 +1,47 @@
+.outer-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.inner-container {
+    max-width: 1200px;
+    padding: 16px;
+    width: 100%;
+}
+
+
+
+.post-list {
+display: flex;
+    flex-direction: column;
+    background-color: var(--color-primary);
+    padding: 0px;
+
+}
+.post-list__item {
+    border: 3px solid black;
+    padding:100px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+.post-list__title{
+    color:brown;
+    font-size:4rem;
+
+
+}
+.post-list__author{
+    color: green;
+    font-size: 3rem;
+}
+.post-list__comments-shares-link {
+    color: darkblue;
+    font-size: 1.3rem;
+}
+.read-time{
+    color:black;
+    font-size:3rem;
+}
+
