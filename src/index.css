@@ -55,3 +55,6 @@ h4 {
 p {
   margin-block: 0.5em;
 }
+a {
+    text-decoration: none;
+}
